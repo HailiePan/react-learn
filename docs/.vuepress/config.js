@@ -2,7 +2,7 @@
  * Author  rhys.zhao
  * Date  2023-03-02 14:02:43
  * LastEditors  hailie.pan
- * LastEditTime  2023-08-29 17:21:05
+ * LastEditTime  2023-08-30 15:01:19
  * Description vuepress配置文件
  */
 
@@ -13,7 +13,7 @@ module.exports = {
   title: "重学React",
   description: "React官方文档学习总结",
 
-  port: "8888",
+  port: "8899",
   open: true,
 
   // 主题和它的配置
