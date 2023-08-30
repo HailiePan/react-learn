@@ -2,12 +2,12 @@
  * Author  rhys.zhao
  * Date  2023-03-02 14:02:43
  * LastEditors  hailie.pan
- * LastEditTime  2023-08-30 15:01:19
+ * LastEditTime  2023-08-30 17:00:39
  * Description vuepress配置文件
  */
 
 module.exports = {
-  base: "/my-vuepress/",
+  base: "/react-learn/",
   lang: "zh-CN",
   head: [["link", { rel: "icon", href: "/imgs/favicon.ico" }]],
   title: "重学React",
